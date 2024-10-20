@@ -1,4 +1,4 @@
-### Hello there ![image](https://s6.ezgif.com/tmp/ezgif-6-63db88c8d2.gif)
+### Hello there <img src="./clod.gif"/>
 
 Web Developer at [Razer](https://www.razer.com/)🎮;\
 Final Year Student at Singapore Management University🏫;
